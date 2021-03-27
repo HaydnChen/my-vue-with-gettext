@@ -1,0 +1,55 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: easygettext\n"
+"Project-Id-Version: \n"
+
+#: src\router\routers.js:127
+msgid "Alarm Event Query"
+msgstr ""
+
+#: src\router\routers.js:136
+msgid "Alarm Shielding Settings"
+msgstr ""
+
+#: src\router\routers.js:150
+msgid "Cache"
+msgstr ""
+
+#: src\router\routers.js:46
+msgid "Home"
+msgstr ""
+
+#: src\router\routers.js:98
+msgid "Instance"
+msgstr ""
+
+#: src\components\common\util.js:2
+#: src\libs\util.js:100
+msgid "item"
+msgstr ""
+
+#: src\router\routers.js:159
+msgid "Local Cache Monitoring"
+msgstr ""
+
+#: src\router\routers.js:26
+msgid "Login"
+msgstr ""
+
+#: src\router\routers.js:87
+msgid "Message Center"
+msgstr ""
+
+#: src\router\routers.js:118
+msgid "Micro Service Monitoring"
+msgstr ""
+
+#: src\router\routers.js:109
+msgid "Monitor"
+msgstr ""
+
+#: src\router\routers.js:67
+msgid "Quick Start"
+msgstr ""

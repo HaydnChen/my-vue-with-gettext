@@ -1,0 +1,59 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: easygettext\n"
+"Project-Id-Version: \n"
+"PO-Revision-Date: 2019-09-10 10:31+0800\n"
+"Last-Translator: <EMAIL@ADDRESS>\n"
+"Language-Team: Language zh-TW\n"
+"Language: zh-TW\n"
+"MIME-Version: 1.0\n"
+
+#: src\router\routers.js:127
+msgid "Alarm Event Query"
+msgstr "告警事件查詢"
+
+#: src\router\routers.js:136
+msgid "Alarm Shielding Settings"
+msgstr "告警屏蔽設置"
+
+#: src\router\routers.js:150
+msgid "Cache"
+msgstr "緩存"
+
+#: src\router\routers.js:46
+msgid "Home"
+msgstr "首頁"
+
+#: src\router\routers.js:98
+msgid "Instance"
+msgstr "實力"
+
+#: src\components\common\util.js:2 src\libs\util.js:100
+msgid "item"
+msgstr ""
+
+#: src\router\routers.js:159
+msgid "Local Cache Monitoring"
+msgstr "本地緩存"
+
+#: src\router\routers.js:26
+msgid "Login"
+msgstr "登錄"
+
+#: src\router\routers.js:87
+msgid "Message Center"
+msgstr "消息中心"
+
+#: src\router\routers.js:118
+msgid "Micro Service Monitoring"
+msgstr "微服務監控"
+
+#: src\router\routers.js:109
+msgid "Monitor"
+msgstr "監控"
+
+#: src\router\routers.js:67
+msgid "Quick Start"
+msgstr "快速上手"

@@ -1,0 +1,59 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"PO-Revision-Date: 2019-09-06 18:07+0800\n"
+"Last-Translator: <EMAIL@ADDRESS>\n"
+"Language-Team: Language en-US\n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: easygettext\n"
+
+#: src\router\routers.js:127
+msgid "Alarm Event Query"
+msgstr "Alarm Event Query"
+
+#: src\router\routers.js:136
+msgid "Alarm Shielding Settings"
+msgstr "Alarm Shielding Settings"
+
+#: src\router\routers.js:150
+msgid "Cache"
+msgstr "Cache"
+
+#: src\router\routers.js:46
+msgid "Home"
+msgstr "Home"
+
+#: src\router\routers.js:98
+msgid "Instance"
+msgstr "Instance"
+
+#: src\components\common\util.js:2 src\libs\util.js:100
+msgid "item"
+msgstr ""
+
+#: src\router\routers.js:159
+msgid "Local Cache Monitoring"
+msgstr "Local Cache Monitoring"
+
+#: src\router\routers.js:26
+msgid "Login"
+msgstr "Login"
+
+#: src\router\routers.js:87
+msgid "Message Center"
+msgstr "Message Center"
+
+#: src\router\routers.js:118
+msgid "Micro Service Monitoring"
+msgstr "Micro Service Monitoring"
+
+#: src\router\routers.js:109
+msgid "Monitor"
+msgstr "Monitor"
+
+#: src\router\routers.js:67
+msgid "Quick Start"
+msgstr "Quick Start"
